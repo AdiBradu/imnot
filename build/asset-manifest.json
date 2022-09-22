@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9942f44c.css",
+    "main.js": "/static/js/main.b048b797.js",
+    "static/js/787.16d91458.chunk.js": "/static/js/787.16d91458.chunk.js",
+    "static/media/imnot__busStopBillboard__large.webp": "/static/media/imnot__busStopBillboard__large.80eea0e31e9684d3c92e.webp",
+    "static/media/imnot__busStopBillboard__medium.webp": "/static/media/imnot__busStopBillboard__medium.d26ccb50dd53f06ddff3.webp",
+    "static/media/imnot__busStopBillboard__small.webp": "/static/media/imnot__busStopBillboard__small.1cf2d65f564e6c483eb4.webp",
+    "static/media/react.svg": "/static/media/react.2e30a21c8574fe0de781a5439f1ba66f.svg",
+    "static/media/Sun.svg": "/static/media/Sun.73f63995e67dd6a6a4f71786d994270f.svg",
+    "static/media/css.svg": "/static/media/css.a2f5baaba2e1888da2969be17f139cea.svg",
+    "index.html": "/index.html",
+    "static/media/javascript.svg": "/static/media/javascript.09867ac4ade73f8539ac8c75e6c97abc.svg",
+    "static/media/html.svg": "/static/media/html.f39bc94637cc0206299f514f39d11661.svg",
+    "static/media/Moon.svg": "/static/media/Moon.8128e85dcc80a4b7d0f0e269dc206cbd.svg",
+    "main.9942f44c.css.map": "/static/css/main.9942f44c.css.map",
+    "main.b048b797.js.map": "/static/js/main.b048b797.js.map",
+    "787.16d91458.chunk.js.map": "/static/js/787.16d91458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9942f44c.css",
+    "static/js/main.b048b797.js"
+  ]
+}
